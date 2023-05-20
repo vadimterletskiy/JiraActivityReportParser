@@ -1,4 +1,5 @@
 # JiraActivityReportParser
+0. Clone repo.
 1. Run in terminal> npm install
 2. change 'config.json'. Set name for XML report
 3. Copy XML report to current directory
